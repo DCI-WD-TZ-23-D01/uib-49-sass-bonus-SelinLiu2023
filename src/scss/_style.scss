@@ -1,0 +1,15 @@
+header{
+    height: 400px;
+    background-image: url(/src/images/header.jpg);
+    background-size: cover; 
+}
+.card-img-top{
+    height: 200px;
+    object-fit: cover;
+}
+aside{
+    border-radius: var(--bs-border-radius);
+}
+footer ul li a{
+    color: white !important;
+}
