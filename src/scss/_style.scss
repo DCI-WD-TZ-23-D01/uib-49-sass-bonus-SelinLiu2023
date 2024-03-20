@@ -1,5 +1,5 @@
 header{
-    height: 400px;
+    // height: 400px;
     background-image: url(/src/images/header.jpg);
     background-size: cover; 
 }
@@ -13,3 +13,6 @@ aside{
 footer ul li a{
     color: white !important;
 }
+.vh-30 {
+    height: 30vh !important;
+  }
